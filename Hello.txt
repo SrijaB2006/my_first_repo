@@ -1,1 +1,0 @@
-Hello GitHubcd my_first_repo
